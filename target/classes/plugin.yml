@@ -1,0 +1,4 @@
+name: FirstPlugin
+version: '1.0-SNAPSHOT'
+main: br.com.xaay.firstplugin.FirstPlugin
+api-version: 1.19

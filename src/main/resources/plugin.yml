@@ -1,0 +1,4 @@
+name: FirstPlugin
+version: '${project.version}'
+main: br.com.xaay.firstplugin.FirstPlugin
+api-version: 1.19
